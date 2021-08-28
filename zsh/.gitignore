@@ -1,0 +1,4 @@
+.cache/
+.zinit/
+.zcompdump
+.bash_history
